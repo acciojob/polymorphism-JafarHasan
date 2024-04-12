@@ -1,5 +1,5 @@
 
-package com.driver.Main;
+package com.driver.main;
 public class Main {
      public static class Product{
         public int product(int x, int y) {
